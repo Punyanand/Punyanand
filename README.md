@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! Welcome to my Tech journey,where my problems have a solution. I'm Punya Ira Anand</h1>
+<h1 align="center">Hey there! I'm Punya Ira Anand. Welcome to my Tech journey,where my problems have a solution. </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&width=435&lines=Software+Engineer;Tech+Enthusiast;Data+Engineer;Business+Intelligence+Developer;Problem+Solver;ETL+%7C+Cloud+%7C+Analytics;Python+%7C+SQL+%7C+Snowflake;Transforming+Data+Into+Insights" />
