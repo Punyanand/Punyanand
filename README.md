@@ -1,33 +1,88 @@
-<h1 align="center">Hey there! I'm Punya Ira Anand. Welcome to my Tech journey,where my problems have a solution. </h1>
+# <h1 align="center">Hey there! I'm Punya Ira Anand. Welcome to my tech journey, where my problem have a solution. </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&width=435&lines=Software+Engineer;Tech+Enthusiast;Data+Engineer;Business+Intelligence+Developer;Problem+Solver;ETL+%7C+Cloud+%7C+Analytics;Python+%7C+SQL+%7C+Snowflake;Transforming+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&width=435&lines=Software(Data)+Engineer;Tech+Enthusiast;Data+Structures+%7C+Algorithms+%7C+OOP;Business+Intelligence+Developer;Problem+Solver;ETL+%7C+Cloud+%7C+Analytics;Python+%7C+SQL;Transforming+Data+Into+Insights" />
 </p>
 
 ---
 
-🚀 **About Me**  
-💡 Data Engineer | Software Developer | Cloud Enthusiast  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punyanand&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🚀 **About Me**  
+🎯 **Software(Data) Engineer | Problem Solver**   
+📍 Dallas, Texas | 📩 [Email Me](mailto:punyaianand01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/punya-ira-anand/) | [Portfolio](https://punyanand.github.io/)  
+
+I specialize in **data engineering, analytics, and cloud-based solutions** to optimize data-driven decision-making. Passionate about writing scalable data solutions, automating workflows, and architecting cloud-based systems. Interested in **DSA and OOP**.  
+
+- 📚 **Currently Pursuing**: MS in **Information and Technology Management** @ **UT Dallas**  
+- 🏢 **Previously Worked at**: Wipro Technologies  
+- 🎯 **Interests**: Data Engineering, Business Intelligence, API development  
+- 📊 **Tech Stack**: Python, SQL, NoSQL, Java, C/C++, PostgreSQL, MongoDB, MS SQL Server, AWS (Glue, Athena, EC2, SageMaker, Kinesis, EMR, Amplify), Git, Jenkins, Hadoop, Airflow, Rest APIs, Agile Methodologies  
+
 🌍 Open to Relocation  
-📍 Currently in Dallas, Texas  
-📧 [Email Me](mailto:punyaianand01@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/punya-ira-anand/) | [GitHub](https://github.com/punyanand)  
-
-I build scalable data solutions, automate workflows, and architect cloud-based systems. Passionate about transforming data into actionable insights, I optimize performance with cutting-edge technologies and efficient algorithms.  
+🔗 [GitHub](https://github.com/Punyanand) | [LeetCode](https://leetcode.com/u/punya_ira/) | [Tableau](https://public.tableau.com/app/profile/punya.anand5200/vizzes)  
 
 ---
 
-🛠️ **Tech Stack**  
-🚀 **Languages & Databases:** Python, SQL, NoSQL, Java, C/C++, PostgreSQL, MongoDB, MS SQL Server  
-☁️ **Cloud & DevOps:** AWS (Glue, Athena, EC2, SageMaker, Kinesis, EMR, Amplify), Git, Jenkins  
-📊 **Data Engineering & Analytics:** Hadoop (HDFS, Hive, HBase), Pandas, NumPy  
-🔧 **Tools & Frameworks:** Airflow, Rest APIs, Agile Methodologies  
+## 🏆 **Competitive Programming & Problem Solving**  
+
+<p align="center">
+  <a href="https://leetcode.com/u/punya_ira/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile">
+  </a>
+  <a href="https://www.hackerrank.com/profile/punyaianand01">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile">
+  </a>
+</p>
+
+🔥 I love **solving coding challenges!** Check out my **LeetCode** & **HackerRank** profiles to see my latest problem-solving adventures.  
 
 ---
 
-💼 **Work Experience**  
-📌 **Teaching Assistant | University of Texas at Dallas** *(May 2024 - May 2025)*  
-🔹 Automated data distribution with Python scripts for 120+ students  
+## 🛠️ **My Tech Stack** 
+
+## ☁️ Cloud Services (AWS)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-2D3436?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-5A29E4?style=for-the-badge&logo=amazonsagemaker&logoColor=white)
+![Amazon Kinesis](https://img.shields.io/badge/Amazon%20Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EMR](https://img.shields.io/badge/AWS%20EMR-5A29E4?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+
+### **Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Data Visualization Tools**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)
+
+### **Development & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 💼 **Work Experience**  
+
+📌 **Graduate Teaching Assistant | University of Texas at Dallas** *(2024 - Present)*  
+🔹 Automated data distribution with Python scripts for 120+ students and mentored them  
 🔹 Developed a system to streamline dataset access and manipulation  
 
 📌 **Senior Software Engineer | Wipro Technologies** *(July 2022 - Jan 2024)*  
@@ -43,7 +98,8 @@ I build scalable data solutions, automate workflows, and architect cloud-based s
 
 ---
 
-🚀 **Projects & Innovations**  
+## 🚀 **Projects & Innovations**  
+
 📌 **Wild Rydes (AWS-powered ride-sharing app)** *(Aug 2024 - Dec 2024)*  
 🔹 Built a fully serverless system with Amplify, Cognito, Lambda & DynamoDB  
 🔹 Reduced frontend update time by 30% with streamlined AWS Amplify deployment  
@@ -62,10 +118,7 @@ I build scalable data solutions, automate workflows, and architect cloud-based s
 ✅ AWS Certified Solutions Architect – Associate  
 ✅ AWS Certified AI Practitioner – Foundational  
 
-📊 **GitHub Stats & Streaks**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punyanand&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=punyanand&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
