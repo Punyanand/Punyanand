@@ -114,6 +114,12 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 
 ---
 
+## 🏅 **Profile Stats**
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-38%2C813-brightgreen)
+
+---
+
 🔥 **Certifications & Achievements**  
 ✅ AWS Certified Solutions Architect – Associate  
 ✅ AWS Certified AI Practitioner – Foundational  
@@ -127,4 +133,3 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 </p>
 
 📢 Always up for collaborating on exciting data and cloud projects! Let's connect. 🚀
-
