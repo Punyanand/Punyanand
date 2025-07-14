@@ -116,7 +116,9 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 
 ## 🏅 **Profile Stats**
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-38%2C813-brightgreen)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=punyanand.punyanand&left_color=gray&right_color=brightgreen&left_text=Profile%20Views" alt="Profile Views Badge" />
+</p>
 
 ---
 
