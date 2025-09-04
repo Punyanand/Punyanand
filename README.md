@@ -81,7 +81,7 @@ I specialize in **data engineering, analytics, and cloud-based solutions** to op
 
 ## 💼 **Work Experience**  
 
-📌 **Graduate Teaching Assistant | University of Texas at Dallas** *(2024 - Present)*  
+📌 **Graduate Teaching Assistant | University of Texas at Dallas** *(May 2024 - May 2025)*  
 🔹 Automated data distribution with Python scripts for 120+ students and mentored them  
 🔹 Developed a system to streamline dataset access and manipulation  
 
