@@ -13,12 +13,12 @@
 ---
 
 ## 🚀 **About Me**  
-🎯 **Software(Data) Engineer | Problem Solver**   
-📍 Dallas, Texas | 📩 [Email Me](mailto:punyaianand01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/punya-ira-anand/) | [Portfolio](https://punyanand.github.io/)  
+🎯 **Software & Data Engineer | Problem Solver**   
+📍 United States | 📩 [Email Me](mailto:punyaianand01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/punya-ira-anand/) | [Portfolio](https://punyanand.github.io/)  
 
 I specialize in **data engineering, analytics, and cloud-based solutions** to optimize data-driven decision-making. Passionate about writing scalable data solutions, automating workflows, and architecting cloud-based systems. Interested in **DSA and OOP**.  
 
-- 📚 **Currently Pursuing**: MS in **Information and Technology Management** @ **UT Dallas**  
+- 📚 **Pursed**: MS in **Information and Technology Management** @ **UT Dallas**  
 - 🏢 **Previously Worked at**: Wipro Technologies  
 - 🎯 **Interests**: Data Engineering, Business Intelligence, API development  
 - 📊 **Tech Stack**: Python, SQL, NoSQL, Java, C/C++, PostgreSQL, MongoDB, MS SQL Server, AWS (Glue, Athena, EC2, SageMaker, Kinesis, EMR, Amplify), Git, Jenkins, Hadoop, Airflow, Rest APIs, Agile Methodologies  
